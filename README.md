@@ -9,4 +9,4 @@
 
 ### 演示：
 
- <img src="pics/pic.png" width = "500" height = "280" alt="演示图"/>
+ <img src="pics/pic.png" width = "715" height = "400" alt="演示图"/>
