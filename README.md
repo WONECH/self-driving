@@ -6,3 +6,7 @@
 2. 需要将代码中的所有路径替换为使用者对应文件的路径。
 3. 在工作空间下终端执行roslaunch detection detection.launch即可。
 4. 文件中只包含少数数据集，完整版数据集需要另外下载，具体见作品概要表。
+
+### 演示：
+
+ <img src="pics/pic.png" width = "500" height = "280" alt="演示图"/>
